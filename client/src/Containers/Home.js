@@ -1,5 +1,5 @@
 import React from "react"
-import HomeHeader from "../Components/HomeHeader";
+import HomeHeader from "../Components/HomeHeader/HomeHeader";
 
 function Home(){
    return (
